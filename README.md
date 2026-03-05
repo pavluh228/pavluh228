@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Pavel 👋
 
-<!--
-**pavluh228/pavluh228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst passionate about turning data into insights.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python (Pandas, NumPy)
+- Data Visualization
+- Business Analytics
+- Data Cleaning
+
+## Tools
+
+- Python
+- PostgreSQL
+- Power BI
+- Excel
+- Git
+
+## Featured Projects
+
+### 📊 E-commerce Sales Analysis
+Analysis of sales trends, revenue distribution and product performance.
+
+### 👥 Customer Segmentation (RFM)
+Customer segmentation using recency, frequency and monetary value.
+
+### 📈 Marketing Funnel Analysis
+Conversion analysis between acquisition stages.
+
+### 🧮 SQL Business Metrics
+Revenue trends and rolling metrics using SQL window functions.
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pavluh228&show_icons=true&theme=dark)
